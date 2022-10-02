@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms-Homework(2)-2_Calculator", "WinForms-Homework(2)-2_Calculator\WinForms-Homework(2)-2_Calculator.csproj", "{A3D0F95F-A141-4533-9120-B8E0CAC7FEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D0F95F-A141-4533-9120-B8E0CAC7FEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D0F95F-A141-4533-9120-B8E0CAC7FEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D0F95F-A141-4533-9120-B8E0CAC7FEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D0F95F-A141-4533-9120-B8E0CAC7FEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {210DFDA1-A6BE-4413-ADFF-4A900D641E45}
+	EndGlobalSection
+EndGlobal
